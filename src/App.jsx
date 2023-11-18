@@ -22,7 +22,7 @@ function App() {
 
   return (
     <div style={objeStyle} className='app'>
-      <h1 className='app__title'>fortune cookie by Andres for Stephi!</h1>
+      <h1 className='app__title'>Fortune cookie by Andres for Stephi & Mary!</h1>
       <article className='app__card'>
         <Phrase
           phraseRandom={phraseRandom}
